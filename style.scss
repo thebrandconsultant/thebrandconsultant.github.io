@@ -239,8 +239,9 @@ nav {
   }
 }
 
-//
-// .main
+#main {
+	padding: 0px;
+}
 //
 
 .posts > .post {
@@ -293,7 +294,7 @@ footer {
   PRIMARY STRUCTURE
 ============================================================ */
 .container {
-  max-width: 960px;
+  max-width: 100%;
   margin: 0 auto;
 }
 /* ============================================================
